@@ -12,3 +12,5 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+To run the app, download the expo go app on your phone. Then, run "npm start" on the terminal and scan the mrtro bundler QR code.
